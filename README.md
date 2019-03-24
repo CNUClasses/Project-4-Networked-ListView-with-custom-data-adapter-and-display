@@ -4,10 +4,12 @@
 
 **Deliverables:** Complete Android Studio Project
 
-**SampleProject:** p4_CraigsList_Sleleton.zip contains a sample project with *some* of the
+**SampleProject:** I've given you a a sample project with *some* of the
 content you need for this assignment. You may use this as the basis for
 your project or you can develop a solution on your own. It’s your
 choice.
+
+**Complete APK:** I've given you a complete apk to see how the application works.
 
 **Overview:**
 
